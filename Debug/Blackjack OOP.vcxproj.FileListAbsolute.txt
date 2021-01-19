@@ -1,0 +1,2 @@
+C:\Users\st\source\repos\Blackjack OOP\Debug\Blackjack OOP.exe
+C:\Users\st\source\repos\Blackjack OOP\Debug\Blackjack OOP.pdb
